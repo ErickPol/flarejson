@@ -1,0 +1,16 @@
+[
+{"name":"Diretoria Comercial","size":3938},
+{"name":"Gerência Sul-Sudeste","size":3938,"imports":["Diretoria Comercial"]},
+{"name":"Regional São Paulo - Interior","size":3938,"imports":["Gerência Sul-Sudeste"]},
+{"name":"Regional ABC","size":3938,"imports":["Gerência Sul-Sudeste"]},
+{"name":"Regional SPC","size":3938,"imports":["Gerência Sul-Sudeste"]},
+{"name":"Regional PR","size":3938,"imports":["Gerência Sul-Sudeste"]},
+{"name":"Regional SC","size":3938,"imports":["Gerência Sul-Sudeste"]},
+{"name":"Regional RS","size":3938,"imports":["Gerência Sul-Sudeste"]},
+{"name":"Regional RJ - Capital","size":3938,"imports":["Gerência Sul-Sudeste"]},
+{"name":"Regional RJ - Interior","size":3938,"imports":["Gerência Sul-Sudeste"]},
+{"name":"Regional MG","size":3938,"imports":["Gerência Sul-Sudeste"]},
+{"name":"Regional ES","size":3938,"imports":["Gerência Sul-Sudeste"]},
+{"name":"Regional ABC","size":3938,"imports":["Gerência Sul-Sudeste"]},
+{"name":"Regional ABC","size":3938,"imports":["Gerência Sul-Sudeste"]},
+]
